@@ -1,0 +1,20 @@
+.projects-section{
+    align-items: center;
+}
+
+.project-head{
+    font-family: 'Roboto';
+    text-align:center
+}
+.project-form{
+    font-family: 'Roboto';
+    text-align:center
+
+}
+.add-btn{
+    background-color: darkgoldenrod;
+    border-style: none;
+    border-radius: 5px;
+    height:30px;
+    width:120px;
+}

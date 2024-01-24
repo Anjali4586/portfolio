@@ -1,0 +1,23 @@
+.about-page{
+    display:flex;
+    margin:5px;
+}
+.profile-btn{
+    display:flex;
+
+}
+.primary-btn{
+    background-color: #ffff00;
+    color:black;
+    border-radius: 5px;
+    border-style: none;
+    height:30px;
+    margin:3px;
+}
+.second-btn{
+    border-radius: 5px;
+    border-style: none;
+    height:30px;
+    margin:3px;
+
+}
